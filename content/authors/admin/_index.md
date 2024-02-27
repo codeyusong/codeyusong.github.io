@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact yusong0223@hotmail.com'
+    link: 'mailto:yusong0223@hotmail.com'
   
     display:
       header: true
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Yusong Wang is currently pursuing a Master of Information Technology (Software Engineering) at Charles Darwin University, with an expected completion date of November 2024. He possesses proficiency in Python and Java programming, along with expertise in Git for version control. He is skilled in web development, data analysis, and utilizing common tools integral to the software development cycle. 
+Yusong Wang is currently pursuing a Master of Information Technology (Software Engineering) at Charles Darwin University, with an expected completion date of November 2024. He demonstrates proficiency in Python and Java programming, complemented by expertise in Git for version control. Additionally, he exhibits strong skills in web development, data analysis, and the effective utilization of tools essential to the software development cycle.
 {style="text-align: justify;"}
