@@ -38,10 +38,10 @@ education:
   courses:
     - course: Master in Information Technology
       institution: Charles Darwin University (Australia)
-      year: Nov 2024
+      year: 11/2024
     - course: MEng in Computer Science and Technology
       institution: Northeastern University (China)
-      year: June 2020
+      year: 06/2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,32 +56,32 @@ skills:
       - name: Web Develope
         description: ''
         percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        icon: web
+        icon_pack: 
+      - name: Data Analysis
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 60
+        icon: data
+        icon_pack: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: hiking
+      - name: fitness
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: 
+        percent: 90
+        icon: fitness
+        icon_pack: 
+      - name: digital technology
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: 75
+        icon: camera
+        icon_pack: 
+      - name: cooking
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: cooking
+        icon_pack: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
