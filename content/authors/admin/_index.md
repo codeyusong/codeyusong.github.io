@@ -25,7 +25,7 @@ organizations:
     url: https://www.cdu.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Python and Java programming, web development, data analysis.
 
 # Interests to show in About widget
 interests:
@@ -57,12 +57,12 @@ skills:
         description: ''
         percent: 80
         icon: web
-        icon_pack: 
+        icon_pack: custom
       - name: Data Analysis
         description: ''
         percent: 60
         icon: data
-        icon_pack: 
+        icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -71,17 +71,17 @@ skills:
         description: ''
         percent: 90
         icon: fitness
-        icon_pack: 
+        icon_pack: custom
       - name: digital technology
         description: ''
         percent: 75
         icon: camera
-        icon_pack: 
+        icon_pack: custom
       - name: cooking
         description: ''
         percent: 80
         icon: cooking
-        icon_pack: 
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
