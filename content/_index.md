@@ -79,7 +79,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: NT, Australia
-          date_start: '2023-10-25
+          date_start: '2023-10-25'
           date_end: '2023-10-26'
           description: Collaborated with Dr.Mirjam Kaestli and other facilitators to support participants in debugging program environments and troubleshooting code.
 
