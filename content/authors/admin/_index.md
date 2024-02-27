@@ -56,13 +56,13 @@ skills:
       - name: Web Develope
         description: ''
         percent: 80
-        icon: web
-        icon_pack: custom
+        icon: window-maximize
+        icon_pack: fas
       - name: Data Analysis
         description: ''
         percent: 60
-        icon: data
-        icon_pack: custom
+        icon: magnifying-glass-chart
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -70,18 +70,18 @@ skills:
       - name: fitness
         description: ''
         percent: 90
-        icon: fitness
-        icon_pack: custom
+        icon: dumbbell
+        icon_pack: fas
       - name: digital technology
         description: ''
         percent: 75
-        icon: camera
-        icon_pack: custom
+        icon: camera-retro
+        icon_pack: fas
       - name: cooking
         description: ''
         percent: 80
-        icon: cooking
-        icon_pack: custom
+        icon: burger
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
