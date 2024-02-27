@@ -65,7 +65,7 @@ sections:
         - title: Senior Buddy, CDU Global Buddy Program
           company: Charles Darwin University
           company_url: ''
-          company_logo: 'CDU'
+          company_logo: 'building-columns'
           location: NT, Australia
           date_start: '2024-01-16'
           date_end: ''
@@ -76,8 +76,8 @@ sections:
               * Collaborating with senior buddies and CDU Global staff to enhance the overall student experience.
         - title: Workshop Facilitator, Research Bazaar Northern Territory
           company: Charles Darwin University
-          company_url: ''
-          company_logo: 'CDU'
+          company_url: 'https://resbaznt.github.io/resbaz2023NT/'
+          company_logo: 'building-columns'
           location: NT, Australia
           date_start: '2023-10-25'
           date_end: '2023-10-26'
