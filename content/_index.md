@@ -92,6 +92,7 @@ sections:
       columns: '2'
 
   - block: markdown
+    id: Gallery
     content:
       title: Gallery
       subtitle: ''
