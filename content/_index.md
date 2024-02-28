@@ -72,16 +72,23 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Assisting international students, fostering community, and organising face-to-face meetings.
-              * Collaborating with senior buddies and CDU Global staff to enhance the overall student experience.
+              * Spearheading support initiatives for international students, nurturing a sense of belonging, and orchestrating in-person gatherings to cultivate cultural exchange and solidarity.
+              * Collaborating closely with senior buddies and CDU Global staff to innovate student engagement strategies, thereby enhancing the overall student experience, and fostering a welcoming campus environment.
+              * Offering personalized mentorship and guidance to aid international students in navigating academic challenges and social integration, ensuring their seamless transition into university life, and promoting cross-cultural understanding.
         - title: Workshop Facilitator, Research Bazaar Northern Territory
           company: Charles Darwin University
-          company_url: 'https://resbaznt.github.io/resbaz2023NT/'
+          company_url: ''
           company_logo: 'building-columns'
           location: NT, Australia
           date_start: '2023-10-25'
           date_end: '2023-10-26'
-          description: Collaborated with Dr.Mirjam Kaestli and other facilitators to support participants in debugging program environments and troubleshooting code.
+          description: |2-
+              Responsibilities include:
+              
+              * Provided support to Dr. Mirjam Kaestli (Presenter) and collaborated with other facilitators in assisting participants with debugging program environments and troubleshooting code during workshops. 
+              * Proficiently handled data importation and library installations in R, demonstrating adeptness in fundamental operations.
+              * Effectively executed R scripts and utilized Tidyverse/ggplot2 packages for data manipulation and visualization, highlighting advanced R techniques.
+
 
 
     design:
