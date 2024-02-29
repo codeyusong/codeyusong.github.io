@@ -11,7 +11,7 @@ last_name: Wang
 
 # Status emoji
 status:
-  icon: 🧑‍💻️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,7 @@ skills:
         icon_pack: fas
       - name: Data Analysis
         description: ''
-        percent: 60
+        percent: 70
         icon: magnifying-glass-chart
         icon_pack: fas
   - name: Hobbies

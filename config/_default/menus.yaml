@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: CV
+    url: uploads/CV_YusongWang.pdf
+    weight: 40
   - name: Gallery
     url: '#Gallery'
     weight: 50
